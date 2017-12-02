@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fysik_YakupY", "Fysik_YakupY\Fysik_YakupY\Fysik_YakupY.csproj", "{C6A91808-1CD7-467B-913E-FB446CA46D17}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Fysik_YakupYContent", "Fysik_YakupY\Fysik_YakupYContent\Fysik_YakupYContent.contentproj", "{D5BC27A1-0C9A-4816-BF8C-A7B02ED46BD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6A91808-1CD7-467B-913E-FB446CA46D17}.Debug|x86.ActiveCfg = Debug|x86
+		{C6A91808-1CD7-467B-913E-FB446CA46D17}.Debug|x86.Build.0 = Debug|x86
+		{C6A91808-1CD7-467B-913E-FB446CA46D17}.Release|x86.ActiveCfg = Release|x86
+		{C6A91808-1CD7-467B-913E-FB446CA46D17}.Release|x86.Build.0 = Release|x86
+		{D5BC27A1-0C9A-4816-BF8C-A7B02ED46BD3}.Debug|x86.ActiveCfg = Debug|x86
+		{D5BC27A1-0C9A-4816-BF8C-A7B02ED46BD3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

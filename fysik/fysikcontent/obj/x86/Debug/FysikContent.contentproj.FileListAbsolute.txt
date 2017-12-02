@@ -1,0 +1,2 @@
+C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Övningar\Fysik_YakupY\Fysik_YakupY\Fysik_YakupYContent\obj\x86\Debug\Fysik_YakupYContent.contentprojResolveAssemblyReference.cache
+C:\Users\Coldii\Dropbox\Matte & Fysik\Fysik\Fysik_YakupY\Fysik_YakupY\Fysik_YakupYContent\obj\x86\Debug\Fysik_YakupYContent.contentprojResolveAssemblyReference.cache
